@@ -1,0 +1,3 @@
+Write a simple react Component that displays a simple text
+    example
+    <CustomComponent title="some random title" />

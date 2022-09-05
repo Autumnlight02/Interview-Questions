@@ -1,0 +1,8 @@
+Fizz Buzz implementation Improvement.
+    Extend the Program in a way that we can easily add new conditions:
+    For example when the number is dividable by 9 print "Cake"
+        If all conditions apply print "FizzBuzzCake"
+            etc...
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!

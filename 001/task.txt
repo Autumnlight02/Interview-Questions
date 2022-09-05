@@ -1,0 +1,9 @@
+Fizz Buzz implementation:
+    Write a CodePiece that goes through the numbers 1 to 100.
+    If the number is dividable by 3 print "Fizz"
+    If the number is dividable by 5 print "Buzz"
+    If both conditions apply, print "FizzBuzz"
+    Else print the number.
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!
