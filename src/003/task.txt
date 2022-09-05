@@ -1,0 +1,7 @@
+Write a simple react Component that displays a simple text
+    for example:
+
+    <CustomComponent title="some random title" />
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!

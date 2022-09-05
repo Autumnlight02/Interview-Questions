@@ -1,0 +1,7 @@
+Write a simple react Component which should:
+ 1. Have an title.
+ 2. Have an input field under the title.
+ 3. Have a configurable character limit.
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!

@@ -1,0 +1,5 @@
+Build the given component:
+    https://www.figma.com/file/EP3S8g444eFErbKYWjbPmr/lil-todo-(Community)?node-id=0%3A3
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!

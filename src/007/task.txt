@@ -1,0 +1,9 @@
+Define a typescript object interface which describes an element:
+The element has the following propeties:
+    the type is either "component" or "element"
+    the version is a format of number . number or number . number . number, for example 1.0 or 1.0.0
+    The content is an string array
+    the duration is an combination of an number with either "h", "m" or "d"
+
+If you would like to get a hint, feel free to ask.
+Explain your thought process!
